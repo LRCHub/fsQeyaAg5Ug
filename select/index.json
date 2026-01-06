@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Ocean View（feat. YZERR、Yellow Pato、Bark、T-Pablow）",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-01-06T08:23:30.442261Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ocean View (feat. YZERR, Yellow Pato, Bark & T-Pablow)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/01_Ocean_View_(feat._YZERR,_Yellow_Pato,_Bark_&_T-Pablow)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ocean View (feat. YZERR, Yellow Pato, Bark & T-Pablow)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/02_Ocean_View_(feat._YZERR,_Yellow_Pato,_Bark_&_T-Pablow)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BAD HOP / Ocean View feat. YZERR, Yellow Pato, Bark & T-Pablow (Official Video)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/03_BAD_HOP___Ocean_View_feat._YZERR,_Yellow_Pato,_Bark_&_T-Pablow_(Official_Video)_BAD_HOP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ocean View feat. YZERR, Yellow Pato, Bark & T-Pablow",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_Ocean_View_feat._YZERR,_Yellow_Pato,_Bark_&_T-Pablow_BAD_HOP.txt"
+    }
+  ]
+}
